@@ -1,5 +1,5 @@
 # LotteThesisMindSortCode
-The TypeScript code that I created for my Bachelor thesis in the educational game MindSort.
+The TypeScript code that I created for my Bachelor thesis in the language-learning application called MindSort.
 
 Files:
 - SelectionAlgorithm file: contains the code for the creation of the random and k-means clustering algorithms. 
